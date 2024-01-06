@@ -1,0 +1,36 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-color: black;   
+}
+.form{
+    display: inline-block;
+}
+.all{
+    text-align: center;
+    height: 500px;
+    background-color: grey;
+    padding: auto;
+    padding-top: 330px;
+    border:2px solid red;
+    border-radius: 50%;
+    background-image: url(./first.jpg);
+    background-size: cover;
+    color: yellow;
+}
+.box1{
+    color: white;
+    font-size: 30px;
+    text-decoration: overline;
+}
+.form{
+    margin-top: 20px;}
+.link a:hover{
+    color: white;
+}
+button{
+    background-color: greenyellow;
+    border: 1px solid greenyellow;
+}

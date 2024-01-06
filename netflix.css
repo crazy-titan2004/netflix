@@ -1,0 +1,123 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-color: rgb(12, 12, 12);
+}
+.first{
+    background-color: black;
+    background-image: url(./first.jpg);
+    background-size: cover;
+}
+.second{
+    background-color: black;
+}
+.third{
+    background-color: black;
+}
+.fourth{
+    background-color: black;
+}
+.fifth{
+    background-color: black;
+}
+.sixth{
+    background-color: black;
+}
+h1{
+    font-size: 50px;
+    display: inline-block;
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 20px;
+}
+.p1{
+    display: inline-block;
+    margin-left: 770px;
+    color: white;
+    border:2px solid red;
+    border-radius: 5px;
+    font-size: 20px;
+    background-color: red;
+}
+h2{
+    font-size: 60px;
+    text-align: center;
+    padding-top: 30px;
+    color: white;
+}
+.p2{
+    text-align: center;
+    padding-bottom: 30px;
+    font-size: 20px;
+    padding-bottom: 20px;
+    color: white;
+}
+.p3{
+    color: white;
+    padding-left: 400px;
+}
+
+label{
+    padding-left: 408px;
+}
+form{
+    padding-bottom: 20px;
+}
+input{
+    height: 25px;
+    width: 200px;
+    border: 2px solid red;
+}
+button{
+    height: 30px;
+    border: 2px solid red;
+    background-color: red;
+    color: white;
+}
+figure{
+    padding-left: 340px;
+    padding-bottom: 30px;
+}
+video{
+    padding-left: 283px;
+    padding-bottom: 20px;
+}
+.imgtwo{
+    padding-top: 30px;
+}
+.second{
+    padding-top: 10px;
+    margin-bottom: 50px;
+    background-image: url(./movie2.jpg);
+    background-size: cover;
+}
+footer{
+    color: white;
+    padding-bottom: 40px;
+}
+.footer p{
+    display: inline-block;
+    margin: 50px;
+    padding-left: 15px;
+}
+a:visited{
+    color: white;
+}
+a:hover{
+    color: yellow;
+}
+a:active{
+    color: blue;
+}
+.third{
+    margin: 20px;
+}
+.copyright{
+    color: white;
+    text-align: center;
+}
+hr{
+    border: 3px solid red;
+}
